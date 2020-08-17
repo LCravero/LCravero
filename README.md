@@ -30,7 +30,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LCravero&show_icons=true&theme=prussian)
+<p>I’m currently learning <b>Kotlin</b></p>
+
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LCravero&show_icons=true&theme=default)
 <br>
 <h3>You can find me on:</h3>
 <a href="https://twitter.com/ljCravero_">
