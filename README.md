@@ -30,7 +30,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>I’m currently learning <b>Kotlin</b></p>
+<p>I’m currently learning: <b>Kotlin</b>, <b>Go</b></p>
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LCravero&show_icons=true&theme=default)
 <br>
