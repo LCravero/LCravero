@@ -1,7 +1,8 @@
 <h1>Hey, nice to see you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 
-<p>¡Welcome to my profile page! </br> I'm Lucas, Fullstack developer from :argentina: <b>Argentina</b>, currently living in <b>Buenos Aires</b>. </p>
+<p>¡Welcome to my profile page! </br> I'm Lucas, Software Engineer from :argentina: <b>Argentina</b>, currently living in <b>Buenos Aires</b></p>
+<p>and working for <b>Mercado Libre</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
